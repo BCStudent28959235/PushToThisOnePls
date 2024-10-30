@@ -9,3 +9,13 @@ C:\Users\purnj\Desktop\BC\2024\PRG282\PRG282_02\obj\Debug\PRG282_02.csproj.Gener
 C:\Users\purnj\Desktop\BC\2024\PRG282\PRG282_02\obj\Debug\PRG282_02.csproj.CoreCompileInputs.cache
 C:\Users\purnj\Desktop\BC\2024\PRG282\PRG282_02\obj\Debug\PRG282_02.exe
 C:\Users\purnj\Desktop\BC\2024\PRG282\PRG282_02\obj\Debug\PRG282_02.pdb
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\bin\Debug\PRG282_02.exe.config
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\bin\Debug\PRG282_02.exe
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\bin\Debug\PRG282_02.pdb
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.csproj.AssemblyReference.cache
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.Form1.resources
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.Properties.Resources.resources
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.csproj.GenerateResource.cache
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.csproj.CoreCompileInputs.cache
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.exe
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.pdb

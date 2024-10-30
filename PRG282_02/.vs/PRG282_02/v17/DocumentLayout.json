@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|c:\\users\\thian\\onedrive\\documents\\github\\pushtothisonepls\\prg282_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|c:\\users\\thian\\onedrive\\documents\\github\\pushtothisonepls\\prg282_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|c:\\users\\thian\\onedrive\\documents\\github\\pushtothisonepls\\prg282_02\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|solutionrelative:save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|c:\\users\\thian\\onedrive\\documents\\github\\pushtothisonepls\\prg282_02\\read.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|solutionrelative:read.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|c:\\users\\thian\\onedrive\\documents\\github\\pushtothisonepls\\prg282_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|c:\\users\\thian\\onedrive\\documents\\github\\pushtothisonepls\\prg282_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD81344-2882-476A-9F89-87BAC6A5E6CD}|PRG282_02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Save.cs",
+              "DocumentMoniker": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Save.cs",
+              "RelativeDocumentMoniker": "Save.cs",
+              "ToolTip": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Save.cs",
+              "RelativeToolTip": "Save.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:29:26.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Read.cs",
+              "DocumentMoniker": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Read.cs",
+              "RelativeDocumentMoniker": "Read.cs",
+              "ToolTip": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Read.cs",
+              "RelativeToolTip": "Read.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:29:15.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:29:05.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:08:25.295Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAiwMEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:08:02.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\thian\\OneDrive\\Documents\\GitHub\\PushToThisOnePls\\PRG282_02\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:30:54.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

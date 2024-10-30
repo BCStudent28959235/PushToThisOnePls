@@ -1,0 +1,2 @@
+Number of students: 5
+Average age of students: 26,4
