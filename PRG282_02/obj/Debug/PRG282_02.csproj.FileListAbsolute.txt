@@ -19,3 +19,14 @@ C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PR
 C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.csproj.CoreCompileInputs.cache
 C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.exe
 C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.pdb
+C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\bin\Debug\PRG282_02.exe.config
+C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\bin\Debug\PRG282_02.exe
+C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\bin\Debug\PRG282_02.pdb
+C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\PRG282_02.csproj.AssemblyReference.cache
+C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\PRG282_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\PRG282_02.Form1.resources
+C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\PRG282_02.Properties.Resources.resources
+C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\PRG282_02.csproj.GenerateResource.cache
+C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\PRG282_02.csproj.CoreCompileInputs.cache
+C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\PRG282_02.exe
+C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\PRG282_02.pdb
