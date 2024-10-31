@@ -1,6 +1,6 @@
 ﻿namespace PRG282_02
 {
-	partial class Form1
+	partial class TasksForm
 	{
 		/// <summary>
 		/// Required designer variable.
@@ -56,90 +56,94 @@
             this.dgvStudents.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
             this.dgvStudents.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvStudents.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
-            this.dgvStudents.Location = new System.Drawing.Point(28, 26);
-            this.dgvStudents.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.dgvStudents.Location = new System.Drawing.Point(19, 17);
+            this.dgvStudents.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.dgvStudents.Name = "dgvStudents";
             this.dgvStudents.ReadOnly = true;
             this.dgvStudents.RowHeadersWidth = 51;
             this.dgvStudents.RowTemplate.Height = 24;
-            this.dgvStudents.Size = new System.Drawing.Size(690, 206);
+            this.dgvStudents.Size = new System.Drawing.Size(460, 134);
             this.dgvStudents.TabIndex = 0;
             this.dgvStudents.SelectionChanged += new System.EventHandler(this.dgvStudents_SelectionChanged);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(53, 326);
+            this.label1.Location = new System.Drawing.Point(35, 212);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(26, 20);
+            this.label1.Size = new System.Drawing.Size(18, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "ID";
             // 
             // txtID
             // 
-            this.txtID.Location = new System.Drawing.Point(109, 319);
-            this.txtID.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtID.Location = new System.Drawing.Point(73, 207);
+            this.txtID.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txtID.Name = "txtID";
-            this.txtID.Size = new System.Drawing.Size(112, 26);
+            this.txtID.Size = new System.Drawing.Size(76, 20);
             this.txtID.TabIndex = 2;
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(109, 354);
-            this.txtName.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtName.Location = new System.Drawing.Point(73, 230);
+            this.txtName.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(112, 26);
+            this.txtName.Size = new System.Drawing.Size(76, 20);
             this.txtName.TabIndex = 4;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(53, 361);
+            this.label2.Location = new System.Drawing.Point(35, 235);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(51, 20);
+            this.label2.Size = new System.Drawing.Size(35, 13);
             this.label2.TabIndex = 3;
             this.label2.Text = "Name";
             // 
             // txtCourse
             // 
-            this.txtCourse.Location = new System.Drawing.Point(109, 424);
-            this.txtCourse.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtCourse.Location = new System.Drawing.Point(73, 276);
+            this.txtCourse.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txtCourse.Name = "txtCourse";
-            this.txtCourse.Size = new System.Drawing.Size(112, 26);
+            this.txtCourse.Size = new System.Drawing.Size(76, 20);
             this.txtCourse.TabIndex = 8;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(53, 431);
+            this.label3.Location = new System.Drawing.Point(35, 280);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(60, 20);
+            this.label3.Size = new System.Drawing.Size(40, 13);
             this.label3.TabIndex = 7;
             this.label3.Text = "Course";
             // 
             // txtAge
             // 
-            this.txtAge.Location = new System.Drawing.Point(109, 389);
-            this.txtAge.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtAge.Location = new System.Drawing.Point(73, 253);
+            this.txtAge.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txtAge.Name = "txtAge";
-            this.txtAge.Size = new System.Drawing.Size(112, 26);
+            this.txtAge.Size = new System.Drawing.Size(76, 20);
             this.txtAge.TabIndex = 6;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(53, 396);
+            this.label4.Location = new System.Drawing.Point(35, 257);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(38, 20);
+            this.label4.Size = new System.Drawing.Size(26, 13);
             this.label4.TabIndex = 5;
             this.label4.Text = "Age";
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(56, 495);
-            this.btnAdd.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnAdd.Location = new System.Drawing.Point(37, 322);
+            this.btnAdd.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(84, 29);
+            this.btnAdd.Size = new System.Drawing.Size(56, 19);
             this.btnAdd.TabIndex = 9;
             this.btnAdd.Text = "Add";
             this.btnAdd.UseVisualStyleBackColor = true;
@@ -147,10 +151,10 @@
             // 
             // btnPrevious
             // 
-            this.btnPrevious.Location = new System.Drawing.Point(118, 240);
-            this.btnPrevious.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnPrevious.Location = new System.Drawing.Point(79, 156);
+            this.btnPrevious.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.btnPrevious.Name = "btnPrevious";
-            this.btnPrevious.Size = new System.Drawing.Size(84, 29);
+            this.btnPrevious.Size = new System.Drawing.Size(56, 19);
             this.btnPrevious.TabIndex = 10;
             this.btnPrevious.Text = "Previous";
             this.btnPrevious.UseVisualStyleBackColor = true;
@@ -158,10 +162,10 @@
             // 
             // btnNext
             // 
-            this.btnNext.Location = new System.Drawing.Point(28, 240);
-            this.btnNext.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnNext.Location = new System.Drawing.Point(19, 156);
+            this.btnNext.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.btnNext.Name = "btnNext";
-            this.btnNext.Size = new System.Drawing.Size(84, 29);
+            this.btnNext.Size = new System.Drawing.Size(56, 19);
             this.btnNext.TabIndex = 11;
             this.btnNext.Text = "Next";
             this.btnNext.UseVisualStyleBackColor = true;
@@ -169,10 +173,10 @@
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(147, 495);
-            this.btnClear.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnClear.Location = new System.Drawing.Point(98, 322);
+            this.btnClear.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.btnClear.Name = "btnClear";
-            this.btnClear.Size = new System.Drawing.Size(84, 29);
+            this.btnClear.Size = new System.Drawing.Size(56, 19);
             this.btnClear.TabIndex = 12;
             this.btnClear.Text = "Clear";
             this.btnClear.UseVisualStyleBackColor = true;
@@ -180,10 +184,10 @@
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(56, 531);
-            this.btnUpdate.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnUpdate.Location = new System.Drawing.Point(37, 345);
+            this.btnUpdate.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(84, 29);
+            this.btnUpdate.Size = new System.Drawing.Size(56, 19);
             this.btnUpdate.TabIndex = 13;
             this.btnUpdate.Text = "Update";
             this.btnUpdate.UseVisualStyleBackColor = true;
@@ -191,10 +195,10 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(147, 531);
-            this.btnDelete.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnDelete.Location = new System.Drawing.Point(98, 345);
+            this.btnDelete.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(84, 29);
+            this.btnDelete.Size = new System.Drawing.Size(56, 19);
             this.btnDelete.TabIndex = 14;
             this.btnDelete.Text = "Delete";
             this.btnDelete.UseVisualStyleBackColor = true;
@@ -202,9 +206,10 @@
             // 
             // btnGenerateSummary
             // 
-            this.btnGenerateSummary.Location = new System.Drawing.Point(498, 240);
+            this.btnGenerateSummary.Location = new System.Drawing.Point(332, 156);
+            this.btnGenerateSummary.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnGenerateSummary.Name = "btnGenerateSummary";
-            this.btnGenerateSummary.Size = new System.Drawing.Size(220, 29);
+            this.btnGenerateSummary.Size = new System.Drawing.Size(147, 19);
             this.btnGenerateSummary.TabIndex = 15;
             this.btnGenerateSummary.Text = "Generate Summary Report";
             this.btnGenerateSummary.UseVisualStyleBackColor = true;
@@ -213,42 +218,46 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(494, 285);
+            this.label5.Location = new System.Drawing.Point(329, 185);
+            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(113, 20);
+            this.label5.Size = new System.Drawing.Size(76, 13);
             this.label5.TabIndex = 16;
             this.label5.Text = "Total Students";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(494, 319);
+            this.label6.Location = new System.Drawing.Point(329, 207);
+            this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(162, 20);
+            this.label6.Size = new System.Drawing.Size(109, 13);
             this.label6.TabIndex = 17;
             this.label6.Text = "Average Student Age";
             // 
             // txtTotalStudents
             // 
-            this.txtTotalStudents.Location = new System.Drawing.Point(694, 282);
+            this.txtTotalStudents.Location = new System.Drawing.Point(463, 183);
+            this.txtTotalStudents.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtTotalStudents.Name = "txtTotalStudents";
             this.txtTotalStudents.ReadOnly = true;
-            this.txtTotalStudents.Size = new System.Drawing.Size(112, 26);
+            this.txtTotalStudents.Size = new System.Drawing.Size(76, 20);
             this.txtTotalStudents.TabIndex = 18;
             // 
             // txtAvgStdAge
             // 
-            this.txtAvgStdAge.Location = new System.Drawing.Point(694, 316);
+            this.txtAvgStdAge.Location = new System.Drawing.Point(463, 205);
+            this.txtAvgStdAge.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtAvgStdAge.Name = "txtAvgStdAge";
             this.txtAvgStdAge.ReadOnly = true;
-            this.txtAvgStdAge.Size = new System.Drawing.Size(112, 26);
+            this.txtAvgStdAge.Size = new System.Drawing.Size(76, 20);
             this.txtAvgStdAge.TabIndex = 19;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(900, 562);
+            this.ClientSize = new System.Drawing.Size(565, 371);
             this.Controls.Add(this.txtAvgStdAge);
             this.Controls.Add(this.txtTotalStudents);
             this.Controls.Add(this.label6);
@@ -269,7 +278,7 @@
             this.Controls.Add(this.txtID);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dgvStudents);
-            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);

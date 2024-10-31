@@ -30,3 +30,14 @@ C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\P
 C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\PRG282_02.csproj.CoreCompileInputs.cache
 C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\PRG282_02.exe
 C:\Users\purnj\source\repos\PushToThisOnePls\pushToThisOne\PRG282_02\obj\Debug\PRG282_02.pdb
+C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\bin\Debug\PRG282_02.exe.config
+C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\bin\Debug\PRG282_02.exe
+C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\bin\Debug\PRG282_02.pdb
+C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.csproj.AssemblyReference.cache
+C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.Properties.Resources.resources
+C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.csproj.GenerateResource.cache
+C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.csproj.CoreCompileInputs.cache
+C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.exe
+C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.pdb
+C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.TasksForm.resources
+C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.PresentationLayer.TasksUserControl.resources

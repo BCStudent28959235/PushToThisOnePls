@@ -11,13 +11,13 @@ using System.Windows.Forms;
 //still need a check to ensure id stays unique
 namespace PRG282_02
 {
-	public partial class Form1 : Form
+	public partial class TasksForm : Form
 	{
 		List<Student> students = new List<Student>();
 
 		DataTable studentTable = new DataTable();
 		BindingSource src = new BindingSource();
-		public Form1()
+		public TasksForm()
 		{
 			InitializeComponent();
 		}
