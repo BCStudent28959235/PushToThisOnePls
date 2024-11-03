@@ -13,7 +13,6 @@ C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\bin\Debug\PR
 C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\bin\Debug\PRG282_02.exe
 C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\bin\Debug\PRG282_02.pdb
 C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.csproj.AssemblyReference.cache
-C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.Form1.resources
 C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.Properties.Resources.resources
 C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.csproj.GenerateResource.cache
 C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.csproj.CoreCompileInputs.cache
@@ -41,3 +40,5 @@ C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePl
 C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.pdb
 C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.TasksForm.resources
 C:\Users\Katryn\Desktop\Project\HoofRepos\copies\pushereplscopy1\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.PresentationLayer.TasksUserControl.resources
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.TasksForm.resources
+C:\Users\thian\OneDrive\Documents\GitHub\PushToThisOnePls\PRG282_02\obj\Debug\PRG282_02.PresentationLayer.TasksUserControl.resources

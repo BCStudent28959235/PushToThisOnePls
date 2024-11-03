@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    "\\PRG282_02\\bin",
-    "\\PRG282_02\\bin\\Debug"
+    "",
+    "\\PRG282_02",
+    "\\PRG282_02\\FileHandling",
+    "\\PRG282_02\\LogicLayer",
+    "\\PRG282_02\\PresentationLayer",
+    "\\PRG282_02\\Properties",
+    "\\PRG282_02\\Resources"
   ],
+  "SelectedNode": "\\PRG282_02\\PRG282_02.sln",
   "PreviewInSolutionExplorer": false
 }

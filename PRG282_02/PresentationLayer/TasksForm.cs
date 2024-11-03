@@ -40,13 +40,33 @@ namespace PRG282_02
 					Course = txtCourse.Text
 				};
 
-				students.Add(student);
-				studentTable.Rows.Add(student.Id, student.Name, student.Age, student.Course);
+				bool stdIdExists = false;
 
-				save();
+				foreach (Student studentChk in students)
+				{
+					if (studentChk.Id == student.Id)
+					{
+						stdIdExists = true;
+						break;
+					}
 
-				// Clear input fields after adding the student
-				ClearInputFields();
+				}
+
+				if (stdIdExists)
+				{
+					MessageBox.Show("Student ID already taken");
+				}
+                else
+                {
+                    students.Add(student);
+                    studentTable.Rows.Add(student.Id, student.Name, student.Age, student.Course);
+                    save();
+
+                    // Clear input fields after adding the student
+                    ClearInputFields();
+                }
+
+
 			}
 			catch (FormatException ex)
 			{
@@ -216,6 +236,27 @@ namespace PRG282_02
 
 			Save save = new Save();
 			save.GenerateSummary(stdCount, avgStdAge);
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+			int studentID = int.Parse(txtSearch.Text);
+
+			foreach (Student student in students)
+			{
+				if (studentID == student.Id)
+				{
+					studentTable.Rows.Clear();
+
+					studentTable.Rows.Add(student.Id, student.Name, student.Age, student.Course);
+				}
+			}
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+			studentTable.Rows.Clear();
+			populateStudents();
         }
     }
 }
