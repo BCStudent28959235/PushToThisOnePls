@@ -253,10 +253,10 @@ namespace PRG282_02
 			}
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnDisplayAllStudents_Click(object sender, EventArgs e)
         {
-			studentTable.Rows.Clear();
-			populateStudents();
+            studentTable.Rows.Clear();
+            populateStudents();
         }
     }
 }

@@ -51,7 +51,7 @@
             this.txtSearch = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.btnSearch = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnDisplayAllStudents = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvStudents)).BeginInit();
             this.SuspendLayout();
             // 
@@ -274,22 +274,22 @@
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
-            // button1
+            // btnDisplayAllStudents
             // 
-            this.button1.Location = new System.Drawing.Point(209, 240);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(156, 29);
-            this.button1.TabIndex = 23;
-            this.button1.Text = "Display all students";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnDisplayAllStudents.Location = new System.Drawing.Point(209, 240);
+            this.btnDisplayAllStudents.Name = "btnDisplayAllStudents";
+            this.btnDisplayAllStudents.Size = new System.Drawing.Size(156, 29);
+            this.btnDisplayAllStudents.TabIndex = 23;
+            this.btnDisplayAllStudents.Text = "Display all students";
+            this.btnDisplayAllStudents.UseVisualStyleBackColor = true;
+            this.btnDisplayAllStudents.Click += new System.EventHandler(this.btnDisplayAllStudents_Click);
             // 
             // TasksForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(848, 571);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnDisplayAllStudents);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.txtSearch);
@@ -348,7 +348,7 @@
         private System.Windows.Forms.TextBox txtSearch;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button btnSearch;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnDisplayAllStudents;
     }
 }
 
